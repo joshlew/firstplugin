@@ -152,3 +152,4 @@ From now on you should only install plugins available in the WPackagist project,
 [https://wpackagist.org/search](https://wpackagist.org/search)
 
 If a plugin is no available, you can still install your own plugins if you want and nothing will break (unless you install crappy plugins) :)
+# firstplugin
