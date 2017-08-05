@@ -87,6 +87,10 @@ wp-content/themes/_tk
 
 # ignore these plugins
 wp-content/plugins/hello.php
+wp-content/plugins/akismet
+wp-content/plugins/duplicator
+wp-content/plugins/w3-total-cachedwp-content/plugins/wordpress-seo
+
 
 # ignore specific themes
 wp-content/themes/twenty*/
